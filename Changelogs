@@ -1,0 +1,7 @@
+0.1.1
+
+- Criação de uma pasta para as pokebolas.
+- Classe Wave agora chama o metodo checkWaveChanger() automaticamente a cada spawn.
+- Bug fixes and improvements.
+
+0.1.2
